@@ -36,6 +36,8 @@ This project helps identify meaningful customer groups to improve marketing pers
 
 <img width="1902" height="999" alt="Image" src="https://github.com/user-attachments/assets/4ae9125d-78cf-4fd5-8192-c15c82bc473b" />
 
+<img width="1897" height="993" alt="Image" src="https://github.com/user-attachments/assets/f8c76392-dbef-49fa-97e6-586d47c3e831" />
+
 
 
 
