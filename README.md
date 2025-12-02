@@ -24,9 +24,12 @@ The project includes:
 
 ✔️ Google Colab–compatible deployment
 
-This project helps identify meaningful customer groups to improve marketing personalization, customer engagement, and business decision-making.
 
 "output"
-<img width="416" height="224" alt="Image" src="https://github.com/user-attachments/assets/040a5957-3f73-43f4-aab1-b0518c729565" />
+<img width="1848" height="753" alt="Image" src="https://github.com/user-attachments/assets/bd78546d-a010-4cbe-9762-8094463708ea" />
+
+This project helps identify meaningful customer groups to improve marketing personalization, customer engagement, and business decision-making.
+
+
 
 
