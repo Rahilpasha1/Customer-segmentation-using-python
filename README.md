@@ -30,6 +30,8 @@ The project includes:
 
 This project helps identify meaningful customer groups to improve marketing personalization, customer engagement, and business decision-making.
 
+<img width="1832" height="954" alt="Image" src="https://github.com/user-attachments/assets/97738de8-8a01-477f-8c42-da0f5a1d3be5" />
+
 
 
 
